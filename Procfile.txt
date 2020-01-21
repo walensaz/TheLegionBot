@@ -1,1 +1,1 @@
-web: java -jar TheLegionBot.jar
+web: java -jar target/TheLegionBot-Maven 1.0-SNAPSHOT.jar

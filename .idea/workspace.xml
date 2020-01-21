@@ -170,11 +170,6 @@
             <path>
               <item name="TheLegionBot-Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="TheLegionBot-Maven" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TheLegionBot-Maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TheLegionBot-Maven" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,6 +192,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thelegion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TheLegionBot-Maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TheLegionBot-Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TheLegionBot-Maven" type="b2602c69:ProjectViewProjectNode" />
